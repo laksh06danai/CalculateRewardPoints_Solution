@@ -1,4 +1,4 @@
-# Calculaterewards
+# Calculate Rewards
 
 This application will provide the functionality to calculate the reward points based on the amount spent and follows the below logic :-
 A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent over $50 in each transaction
